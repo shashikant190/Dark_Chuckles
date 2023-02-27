@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dark_Chuckles/static/css/main.800e21e6.css",
+    "main.js": "/Dark_Chuckles/static/js/main.764ff305.js",
+    "static/media/email.svg": "/Dark_Chuckles/static/media/email.f7ead3da3d11a1ca84ba61d03199a9cf.svg",
+    "index.html": "/Dark_Chuckles/index.html",
+    "static/media/instagram.svg": "/Dark_Chuckles/static/media/instagram.b7818ac13fa6fc2027af017f3416732c.svg",
+    "static/media/menu.svg": "/Dark_Chuckles/static/media/menu.4a292e6b3238b9b27079ea111131261e.svg",
+    "main.800e21e6.css.map": "/Dark_Chuckles/static/css/main.800e21e6.css.map",
+    "main.764ff305.js.map": "/Dark_Chuckles/static/js/main.764ff305.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.800e21e6.css",
+    "static/js/main.764ff305.js"
+  ]
+}
