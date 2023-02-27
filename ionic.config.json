@@ -1,0 +1,7 @@
+{
+    "name": "Dark Chuckles",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
