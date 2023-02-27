@@ -1,9 +1,0 @@
-{
-    "appId": "com.example.darkchuckles",
-    "appName": "Dark Chuckles",
-    "bundledWebRuntime": false,
-    "npmClient": "npm",
-    "webDir": "build",
-    "cordova": {}
-  }
-  
